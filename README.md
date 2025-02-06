@@ -4,7 +4,8 @@ This project was developed as part of my “Diploma in Data Science, Machine Lea
 The project focuses on understanding the relationship between Argentina’s healthcare system resources and the causes of death across its different provinces.
 
 Key aspects of the project include:
-	•	Data cleaning
+	
+ 	•	Data cleaning
  
 	•	Exploratory data analysis
 
