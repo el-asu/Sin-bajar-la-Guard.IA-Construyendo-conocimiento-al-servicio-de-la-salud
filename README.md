@@ -5,7 +5,11 @@ The project focuses on understanding the relationship between Argentina’s heal
 
 Key aspects of the project include:
 	•	Data cleaning
+ 
 	•	Exploratory data analysis
-	•	Supervised learning models
-	•	Unsupervised learning models
-	•	Development of a web app that helps users find the nearest healthcare center based on the required specialty.
+
+ 	•	Supervised learning models
+	
+ 	•	Unsupervised learning models
+	
+ 	•	Development of a web app that helps users find the nearest healthcare center based on the required specialty.
